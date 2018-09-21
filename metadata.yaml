@@ -1,5 +1,8 @@
 _repo: Julius-the-Street-Boy-or-Out-West_53821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53821-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53821#Julius-the-Street-Boy-or-Out-West
 gutenberg_issued: '2016-12-28'
 gutenberg_type: Text
 identifiers:
